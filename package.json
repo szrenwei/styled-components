@@ -1,5 +1,5 @@
 {
-  "name": "styled-components",
+  "name": "styled-components-with-middlewares",
   "version": "2.2.4",
   "description": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅",
   "main": "lib/index.js",

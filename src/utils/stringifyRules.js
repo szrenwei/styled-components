@@ -28,3 +28,4 @@ const stringifyRules = (
 }
 
 export default stringifyRules
+export const use = stylis.use.bind(stylis)

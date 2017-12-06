@@ -2,7 +2,7 @@
 
 /* Import singletons */
 import flatten from './utils/flatten'
-import stringifyRules from './utils/stringifyRules'
+import stringifyRules, { use } from './utils/stringifyRules'
 import generateAlphabeticName from './utils/generateAlphabeticName'
 import css from './constructors/css'
 import ServerStyleSheet from './models/ServerStyleSheet'
@@ -42,4 +42,5 @@ export {
   withTheme,
   ServerStyleSheet,
   StyleSheetManager,
+  use,
 }
